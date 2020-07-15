@@ -1,5 +1,11 @@
 # Proyecto Base TP2
 
+## Prerequisitos
+
+* Java 11 ([Oracle](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) u [OpenJDK](https://openjdk.java.net/install/))
+* [Maven](https://maven.apache.org/)
+* [git](https://git-scm.com/)
+
 ## Instalación
 
 ### 1. Checkout del repo
